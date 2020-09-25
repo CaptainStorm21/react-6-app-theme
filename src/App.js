@@ -64,8 +64,7 @@ function App() {
               commodo commodo eu adipisicing.
             </p>
           </div>
-          <div className="col-md-6 col-lg-6">
-            {" "}
+          <div className="col-md-6 col-lg-6 mb-5">
             <p>
               Elit et voluptate esse et pariatur aute id ipsum aliquip magna.
               Velit exercitation irure magna pariatur eu do in ea. Aliquip id
